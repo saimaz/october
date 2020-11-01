@@ -25,7 +25,7 @@
     },
     "require": {
         "php": ">=7.0",
-        "ext-mbstring": "*",
+        "ext-mbstring": ">=1.0",
         "ext-openssl": "*",
         "october/rain": "~1.0",
         "october/system": "~1.0",

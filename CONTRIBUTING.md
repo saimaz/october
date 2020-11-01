@@ -18,6 +18,7 @@ We work hard to process bugs that are reported, to assist with this please ensur
 
 - **Actual behavior**: What is the actual result on running above steps i.e. the bug behavior - **include any error messages**.
 
+
 #### Here's how to report a bug on GitHub
 
 1. **Register for an account on [GitHub](https://github.com),** if you don't already have one.
